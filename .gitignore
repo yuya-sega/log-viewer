@@ -1,0 +1,8 @@
+# apache
+apache/logs
+
+# postgres
+postgres/pgdata
+
+#elasticsearch
+elasticsearch/data
